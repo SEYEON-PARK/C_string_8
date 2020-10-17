@@ -3,7 +3,7 @@
 
 int main(void)
 {
-	char a[30] = "¾È³çÇÏ¼¼¿ä.", b[30] = "¾È³ç";
+	char a[30] = "ì•ˆë…•í•˜ì„¸ìš”.", b[30] = "ì•ˆë…•";
 	printf("%d\n", strstr(a, b));
 
 	return 0;
